@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Nimroth
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;ASP.NET+Core+Developer;.NET+Core+%7C+C%23+%7C+SQL+Server;AI+Tools+Enthusiast;Founder+of+K24+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;ASP.NET+Core+Developer;.NET+Core+%7C+C%23+%7C+SQL+Server;AI+Tools+Enthusiast" />
 
 </div>
 
@@ -12,12 +12,12 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 💻 I am a Software Developer focused on web applications
-* 🔭 Currently building business websites, admin panels, and CRUD systems
+* 💻 I am a Software Developer focused on web applications and WPF
+* 🔭 Currently building business websites, admin panels, and Reporting systems
 * 🌱 Learning more about **AI tools, .NET Core, and modern UI design**
 * ⚡ I like solving real-world problems using simple and effective technology
-* 🏢 Founder / Developer at **K24 Technologies**
-* 📫 Contact: **[contact@k24technologies.com](mailto:contact@k24technologies.com)**
+* 🏢 Developer at **K24 Technologies**
+* 📫 Contact: **[Nimrothk@Gmail.com](mailto:nimrothk@k24gmail.com)**
 
 ---
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,bootstrap,mysql,sqlite,git,github" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,bootstrap,mssql,sqlite,git,github" />
 
 </div>
 
@@ -64,11 +64,11 @@ Backend API development and third-party service integrations using ASP.NET Core 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=nimrothk&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimrothk&layout=compact&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimrothk&theme=tokyonight" />
 
 </div>
 
@@ -78,11 +78,11 @@ Backend API development and third-party service integrations using ASP.NET Core 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-contact%40k24technologies.com-red?style=for-the-badge\&logo=gmail)](mailto:contact@k24technologies.com)
+[![Email](https://img.shields.io/badge/Email-Nimrothk%40Gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:nimrothk@Gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--github--username-black?style=for-the-badge\&logo=github)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Nimrothk-black?style=for-the-badge\&logo=github)](https://github.com/Nimrothk)
 
 </div>
 
