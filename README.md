@@ -1,64 +1,46 @@
-# Hi there 👋 I'm [Your Name]
+<div align="center">
 
-### 💻 Software Developer | .NET Core | Web Applications | AI Tools Enthusiast
+# Hi 👋 I'm Nimroth
 
-I am a passionate software developer focused on building modern, clean, and user-friendly web applications.
-I enjoy working with **.NET Core, ASP.NET Core MVC, Web API, SQL Server, JavaScript, HTML, CSS**, and modern AI tools to build fast and practical solutions.
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;ASP.NET+Core+Developer;.NET+Core+%7C+C%23+%7C+SQL+Server;AI+Tools+Enthusiast;Founder+of+K24+Technologies" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on web applications and business software solutions
-* 🌱 Learning and improving in **AI tools, .NET Core, clean architecture, and modern UI design**
-* 👨‍💻 Interested in building CRUD systems, admin panels, APIs, dashboards, and business websites
-* 🧠 I like solving real-world problems using simple and effective technology
-* 💼 Founder / Developer at **K24 Technologies**
-* 📫 Contact me: **[contact@k24technologies.com](mailto:contact@k24technologies.com)**
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+* 💻 I am a Software Developer focused on web applications
+* 🔭 Currently building business websites, admin panels, and CRUD systems
+* 🌱 Learning more about **AI tools, .NET Core, and modern UI design**
+* ⚡ I like solving real-world problems using simple and effective technology
+* 🏢 Founder / Developer at **K24 Technologies**
+* 📫 Contact: **[contact@k24technologies.com](mailto:contact@k24technologies.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Frameworks
+<div align="center">
 
-* C#
-* .NET Core
-* ASP.NET Core MVC
-* ASP.NET Core Web API
-* Entity Framework Core
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,bootstrap,mysql,sqlite,git,github" />
 
-### Database
-
-* SQL Server
-* SQLite
-* MySQL
-
-### Tools & Platforms
-
-* Visual Studio
-* VS Code
-* Git & GitHub
-* IIS Deployment
-* Postman
-* Canva
-* ChatGPT / AI Coding Tools
+</div>
 
 ---
 
 ## 💼 What I Do
 
-* Build responsive business websites
-* Develop admin panels and dashboards
-* Create CRUD applications
-* Build REST APIs
-* Fix bugs and improve existing systems
-* Design clean UI screens
-* Use AI tools to speed up development
+* ✅ Responsive business websites
+* ✅ Admin panels and dashboards
+* ✅ ASP.NET Core MVC applications
+* ✅ REST API development
+* ✅ SQL Server database systems
+* ✅ Bug fixing and system improvements
+* ✅ UI screen design
+* ✅ AI-assisted software development
 
 ---
 
@@ -66,11 +48,11 @@ I enjoy working with **.NET Core, ASP.NET Core MVC, Web API, SQL Server, JavaScr
 
 ### 🔹 Business Website with Admin Panel
 
-A modern website for a startup/software company with project posting features and admin management.
+Modern startup/software company website with project posting and admin management features.
 
 ### 🔹 .NET Core CRUD Application
 
-A complete CRUD system using ASP.NET Core, Entity Framework Core, and SQL Server.
+Complete CRUD system using ASP.NET Core, Entity Framework Core, and SQL Server.
 
 ### 🔹 API Integration Projects
 
@@ -80,21 +62,36 @@ Backend API development and third-party service integrations using ASP.NET Core 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [contact@k24technologies.com](mailto:contact@k24technologies.com)
-* 💼 LinkedIn: [Add your LinkedIn link here]
-* 🌍 Website: [Add your website link here]
-* 🐙 GitHub: https://github.com/your-github-username
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-contact%40k24technologies.com-red?style=for-the-badge\&logo=gmail)](mailto:contact@k24technologies.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-your--github--username-black?style=for-the-badge\&logo=github)](https://github.com/your-github-username)
+
+</div>
 
 ---
 
+<div align="center">
+
 ## ✨ Motto
 
-> Keep learning, keep building, and use technology to solve real problems.
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Learning;Keep+Building;Use+Technology+to+Solve+Real+Problems" />
+
+</div>
