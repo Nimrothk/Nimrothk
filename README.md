@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,bootstrap,mssql,sqlite,git,github" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,bootstrap,mysql,sqlite,git,github" />
 
 </div>
 
@@ -64,11 +64,13 @@ Backend API development and third-party service integrations using ASP.NET Core 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nimrothk&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimrothk&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimrothk&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nimrothk&theme=tokyonight&utcOffset=4" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimrothk&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nimrothk&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimrothk&theme=tokyo-night" />
 
 </div>
 
