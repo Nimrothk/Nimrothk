@@ -1,191 +1,100 @@
-<h1 align="center">Hi , I'm [Your Name]</h1>
-<h3 align="center">
-Full Stack Web Developer | Passionate Problem Solver | Building
-Modern Web Experiences
-</h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
-</p>
+# Hi there 👋 I'm [Your Name]
+
+### 💻 Software Developer | .NET Core | Web Applications | AI Tools Enthusiast
+
+I am a passionate software developer focused on building modern, clean, and user-friendly web applications.
+I enjoy working with **.NET Core, ASP.NET Core MVC, Web API, SQL Server, JavaScript, HTML, CSS**, and modern AI tools to build fast and practical solutions.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- I'm a **Full Stack Web Developer** passionate about creating
-responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud
-Technologies**.
-
-- Open to collaborating on exciting web development and open-
-source projects.
-
-- Always exploring modern technologies and best development
-practices.
-- Fun Fact: **I love solving coding challenges and building
-useful applications.**
+* 🔭 Currently working on web applications and business software solutions
+* 🌱 Learning and improving in **AI tools, .NET Core, clean architecture, and modern UI design**
+* 👨‍💻 Interested in building CRUD systems, admin panels, APIs, dashboards, and business websites
+* 🧠 I like solving real-world problems using simple and effective technology
+* 💼 Founder / Developer at **K24 Technologies**
+* 📫 Contact me: **[contact@k24technologies.com](mailto:contact@k24technologies.com)**
 
 ---
 
-## Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="[LinkedIn URL]">
+### Programming & Frameworks
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
+* C#
+* .NET Core
+* ASP.NET Core MVC
+* ASP.NET Core Web API
+* Entity Framework Core
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
 
-</a>
-<a href="[Portfolio URL]">
+### Database
 
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
+* SQL Server
+* SQLite
+* MySQL
 
-</a>
-<a href="mailto:[Email Address]">
+### Tools & Platforms
 
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
-
-</a>
-</p>
-
----
-
-# Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-</p>
+* Visual Studio
+* VS Code
+* Git & GitHub
+* IIS Deployment
+* Postman
+* Canva
+* ChatGPT / AI Coding Tools
 
 ---
 
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and
-experience.
+## 💼 What I Do
 
-**Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
-Live Demo: [Portfolio URL]
-Repository: [GitHub Repository]
-
----
-
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart
-functionality.
-**Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+* Build responsive business websites
+* Develop admin panels and dashboards
+* Create CRUD applications
+* Build REST APIs
+* Fix bugs and improve existing systems
+* Design clean UI screens
+* Use AI tools to speed up development
 
 ---
 
-## Task Management App
-A productivity application to organize daily tasks with
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+## 📌 Featured Projects
+
+### 🔹 Business Website with Admin Panel
+
+A modern website for a startup/software company with project posting features and admin management.
+
+### 🔹 .NET Core CRUD Application
+
+A complete CRUD system using ASP.NET Core, Entity Framework Core, and SQL Server.
+
+### 🔹 API Integration Projects
+
+Backend API development and third-party service integrations using ASP.NET Core Web API.
 
 ---
 
-# GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username\&layout=compact\&theme=tokyonight)
 
 ---
 
-# GitHub Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>
+## 🌐 Connect With Me
+
+* 📧 Email: [contact@k24technologies.com](mailto:contact@k24technologies.com)
+* 💼 LinkedIn: [Add your LinkedIn link here]
+* 🌍 Website: [Add your website link here]
+* 🐙 GitHub: https://github.com/your-github-username
 
 ---
 
-# Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
-</p>
+## ✨ Motto
 
----
-
-# GitHub Trophies
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?
-
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
-
-</p>
-
----
-
-# 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
-
----
-
-# Currently Learning
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
-
----
-
-# Goals for 2025
-
-- Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
-
----
-
-# Favorite Quote
-
-> "Code is like humor. When you have to explain it, it's bad." –
-Cory House
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
-</p>
-
----
-
-<h3 align="center">
-Thanks for visiting my profile!
-</h3>
-<p align="center">
-If you like my work, consider giving a to my repositories and
-connecting with me.
-</p>
+> Keep learning, keep building, and use technology to solve real problems.
